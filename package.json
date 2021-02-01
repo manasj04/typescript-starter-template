@@ -1,0 +1,14 @@
+{
+  "name": "typescript-starter-template",
+  "version": "1.0.0",
+  "description": "A starter template for typescript based project",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Manas Jain",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
